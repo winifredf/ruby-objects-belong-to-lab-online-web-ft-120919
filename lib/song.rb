@@ -4,6 +4,7 @@ class Song
   def initialize(title)
     @title = title
   end
+end
 
 love_on_top.artist
   
