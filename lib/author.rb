@@ -5,3 +5,5 @@ class Author
     @name= name
   end
 end
+
+tony_evans = Author.new(Tony_Evans)
