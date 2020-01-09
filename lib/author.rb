@@ -6,4 +6,4 @@ class Author
   end
 end
 
-tony_evans = Author.new(Tony_Evans)
+tony = Author.new(Tony)
