@@ -6,4 +6,3 @@ class Author
   end
 end
 
-tony = Author.new(Tony)
